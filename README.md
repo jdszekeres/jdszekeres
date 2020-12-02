@@ -1,6 +1,6 @@
 ![readme stats](https://github-readme-stats.vercel.app/api?username=jdszekeres&show_icons=true&theme=blueberry)
 <br>
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdszekeres)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdszekeres&layout=compact)
 ###### top languages
 <img src="https://simpleicons.org/icons/python.svg" width=30 />
 <img src="https://simpleicons.org/icons/javascript.svg" width=30 />
