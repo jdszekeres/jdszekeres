@@ -5,6 +5,8 @@
 <img src="https://simpleicons.org/icons/python.svg" width=30 />
 <img src="https://simpleicons.org/icons/javascript.svg" width=30 />
 <img src="https://simpleicons.org/icons/swift.svg" width=30 />
+<img src="https://simpleicons.org/icons/gnubash.svg" width=30 />
+
 <!--
 **jdszekeres/jdszekeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
