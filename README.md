@@ -1,6 +1,6 @@
 ![readme stats](https://github-readme-stats.vercel.app/api?username=jdszekeres&show_icons=true&theme=blueberry)
 <br>
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdszekeres&layout=compact)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdszekeres&layout=compact&theme=blueberry)
 ###### top languages
 <div style="display: flex;">
 <img src="https://simpleicons.org/icons/python.svg" width=30/>
