@@ -8,6 +8,7 @@
 <img src="https://simpleicons.org/icons/swift.svg" width=30 />
 <img src="https://simpleicons.org/icons/gnubash.svg" width=30 />
 </div>
+<p>visitors   <img src="https://profile-counter.glitch.me/%7Bjdszekeres%7D/count.svg" height="20" /></p>
 <!--
 **jdszekeres/jdszekeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
