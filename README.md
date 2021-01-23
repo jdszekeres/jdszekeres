@@ -7,6 +7,8 @@
 <img src="https://simpleicons.org/icons/javascript.svg" width=30 />
 <img src="https://simpleicons.org/icons/swift.svg" width=30 />
 <img src="https://simpleicons.org/icons/gnubash.svg" width=30 />
+<img src="https://simpleicons.org/icons/sqlite.svg" width=30 />
+ <img src="https://simpleicons.org/icons/postgresql.svg" width=30 />
 </div>
 <p>visitors   <img src="https://profile-counter.glitch.me/%7Bjdszekeres%7D/count.svg" width="100%" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=jdszekeres&column=7&theme=onedark" /> 
