@@ -13,7 +13,7 @@
 <p>visitors   <img src="https://profile-counter.glitch.me/%7Bjdszekeres%7D/count.svg" width="100%" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=jdszekeres&column=7&theme=onedark" /> 
 I'm working on
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=os-tutorial" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=os-tutorial&theme=onedark" />
 <!--
 **jdszekeres/jdszekeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
