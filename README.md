@@ -12,8 +12,11 @@
 </div>
 <p>visitors   <img src="https://profile-counter.glitch.me/%7Bjdszekeres%7D/count.svg" width="100%" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=jdszekeres&column=7&theme=onedark" /> 
-I'm working on
+<details>
+ <summary>I'm working on</summary>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=os-tutorial&theme=onedark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=builders-mine&theme=onedark" />
+ </details>
 <!--
 **jdszekeres/jdszekeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
