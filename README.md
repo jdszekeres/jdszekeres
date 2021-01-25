@@ -11,7 +11,7 @@
  <img src="https://simpleicons.org/icons/postgresql.svg" width=30 />
 </div>
 <p>visitors   <img src="https://profile-counter.glitch.me/%7Bjdszekeres%7D/count.svg" width="100%" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=jdszekeres&column=7&theme=onedark" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=jdszekeres&column=4&rows=3&theme=onedark" /> 
 <details>
  <summary>I'm working on</summary>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=os-tutorial&theme=onedark" />
