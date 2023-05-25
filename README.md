@@ -2,7 +2,7 @@
 <br>
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdszekeres&layout=compact&theme=blueberry&count_private=true)
 
-[Jdszekeres's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jdszekeres&theme=dracula)
+![Jdszekeres's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jdszekeres&theme=dracula)
 
 ###### top languages
 <div style="display: flex;">
