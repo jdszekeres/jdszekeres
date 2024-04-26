@@ -17,8 +17,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=jdszekeres&column=4&rows=3&theme=dracula" /> 
 <details>
  <summary>I'm working on</summary>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=os-tutorial&theme=onedark" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=builders-mine&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=koppenFlights&theme=onedark" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=jdszekeres&repo=virtualRealEstate&theme=onedark" />
  </details>
 <!--
 **jdszekeres/jdszekeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
