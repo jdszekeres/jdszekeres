@@ -3,5 +3,5 @@
   
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdszekeres&size_weight=0&count_weight=1" style="width: 50%">
    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdszekeres&size_weight=0.1&count_weight=1&theme=tokyonight&layout=donut-vertical&langs_count=6&hide=nix,makefile" style="width: 50%">
+  
 </div>
